@@ -7,3 +7,12 @@
 meteor-platform
 autopublish
 insecure
+coffeescript
+iron:router
+mquandalle:jade
+matb33:collection-hooks
+
+
+npm-container
+cfs:standard-packages
+cfs:filesystem
